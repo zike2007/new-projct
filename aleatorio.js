@@ -1,5 +1,3 @@
-aleatorio.js
-
 const nomes = ["Julia", "Dayana", "Maria Cecilia", "Mathew", "Ana Clara", "Guilhermo", "Gabriela"];
 
 export function aleatorio (lista){
